@@ -3,22 +3,3 @@ body {
 	background-repeat: repeat;
 	background-size: 150px;
 }
-#header {
-	background-color: #66CCFF;
-	padding: 1px;
-	margin-bottom: 10px;
-}
-
-#right {
-	background-color: #EEE;
-	width: 900px;
-	height: 400px;
-	float: right;
-}
-
-#left {
-	background-color: #EEE;
-	width: 900px;
-	height: 400px;
-	float: left;
-}
