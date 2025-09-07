@@ -1,0 +1,11 @@
+body {
+	background-image: url("images/background.png");
+	background-repeat: repeat;
+	background-size: 150px;
+}
+
+.txt {
+     color: #ffffff;
+    margin-top: 3%;
+    margin-left: 3%;
+}
